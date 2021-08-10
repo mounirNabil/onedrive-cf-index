@@ -17,9 +17,9 @@ const config = {
     sitePath: null
   },
 
-  refresh_token: REFRESH_TOKEN,
-  client_id: '6600e358-9328-4050-af82-0af9cdde796b',
-  client_secret: CLIENT_SECRET,
+  refresh_token: '0.AT4AVSfClNzFoEuj5clJEctqCS5DZqr2uKdEpUB9BsdkVHM-AFg.AQABAAIAAAD--DLA3VO7QrddgJg7WevrykiJVmB7zs2TUSwypMxaKJFqmPtXwttw4C53w2U6cvi14DMRXQqwN_XyA0jtOwcx7OrdW3O3htXehME0Wa5ASAy7NiqOuSHQRHR0d4dwE-SMY4c-wrkIYYVBdl-CgjyVdBqTkfMynB3Mrgb6ih33rChAEH7t3JruypaKbat_1rOLkPHa8INdTwR06-qrbxHdZM_NiHmNJ5iISsSSZ0JCVlqh1pgWpxHmqg5R-ZRQ19yZ5R4Q5hwjAWxIzsQP6DQBOWSEGpRopGG7gxvmWF22vkL4bkvpJiFedQKOeP5t3-mMYdhIxKmcmR9Ege5qhIufBlwE6L2g8rtBvjXFV3Umh4CoXexzK1TCZF6fxjkMezM_vM9I7dyVHPwr4bY6paw-32Quq0yRVcqPtk8mmfNFXqkZuznEJJbEoRfSVEm-fTH1wET2zBlFZMdeEyd4fdEbCHrOP5I8JYrgzzTV-nw9thnFKOGEJxhHotJxWSCezQV41hL1iR_2l_X7PYCzkwnf5ZAFOd3_Nu3tjbZqGE-U4ZWB0T0MN1Xtft8xWy4cAoVrKy13zSEKxQod1uTRh2NXcx1UmRSg9nbSiQPICTHX3GSHVUUH8oqpYs-5Rg2VqVogAA',
+  client_id: 'aa66432e-b8f6-44a7-a540-7d06c7645473',
+  client_secret: '5b5E5AwwItA0_53Sd5C_Og6-r-V-pv~VYJ',
 
   /**
    * Exactly the same `redirect_uri` in your Azure Application
@@ -29,7 +29,7 @@ const config = {
   /**
    * The base path for indexing, all files and subfolders are public by this tool. For example: `/Public`.
    */
-  base: '/Public',
+  base: '/Egydown',
 
   /**
    * Feature: Pagination when a folder has multiple(>${top}) files
